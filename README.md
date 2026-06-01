@@ -1,16 +1,39 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple Todo application built with React and Vite.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add tasks
+- Delete tasks
+- Edit tasks
+- Mark tasks as done / undone
+- Filter tasks (All / Active / Done)
+- Persistent storage using localStorage
 
-## React Compiler
+## 🧠 What I learned
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React useState and useEffect
+- CRUD operations in React
+- State management best practices
+- Conditional rendering
+- Working with localStorage
+- Git workflow (branches, merge, commits)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript (ES6+)
+- Vite
+- HTML/CSS (inline styling)
+
+## ▶️ How to run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+![Todo App](assets/screenshot.png)
