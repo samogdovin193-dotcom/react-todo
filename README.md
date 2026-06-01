@@ -36,4 +36,4 @@ npm run dev
 
 ## 📸 Preview
 
-![Todo App](assets/screenshot.png)
+![Todo App](./src/assets/image.png)
