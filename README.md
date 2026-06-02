@@ -27,6 +27,10 @@ Simple Todo application built with React and Vite.
 - Vite
 - HTML/CSS (inline styling)
 
+## 🌍 Live Demo
+
+👉 https://react-todo-silk-chi.vercel.app/
+
 ## ▶️ How to run locally
 
 ```bash
