@@ -34,7 +34,7 @@ Simple Todo application built with React and Vite.
 ## ▶️ How to run locally
 
 ```bash
-git clone https://github.com/your-username/react-todo.git
+git clone https://github.com/samogdovin193-dotcom/react-todo.git
 cd weather-app
 npm install
 npm run dev
